@@ -22,9 +22,7 @@
 <table>
 <tr>
 <td valign="top" width="55%">
-
-```python
-class Dharshini:
+<pre><code class="language-python">class Dharshini:
     def __init__(self):
         self.name         = "Dharshini S"
         self.location     = "Tamil Nadu, India 🇮🇳"
@@ -46,14 +44,10 @@ class Dharshini:
         return "Build fast. Break things. Learn faster. 🚀"
 
 me = Dharshini()
-print(me.motto())
-```
-
+print(me.motto())</code></pre>
 </td>
 <td valign="top" width="45%" align="center">
-
 <img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
 </td>
 </tr>
 </table>
@@ -202,13 +196,13 @@ print(me.motto())
 
 ## 🌱 Currently Learning
 
-```
+<pre>
 📐 System Design       →  HLD, LLD, Microservices, Scalability Patterns
 🐦 NestJS              →  Decorators, Guards, Interceptors, TypeORM
 🤖 Machine Learning    →  Supervised Learning, Feature Engineering, Model Deployment
 ☁️  AWS Deep Dive      →  EC2, Lambda, S3, RDS, CloudFront
 🧠 Generative AI       →  RAG Pipelines, Vector Databases, LangChain
-```
+</pre>
 
 ---
 
