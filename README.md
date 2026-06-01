@@ -19,23 +19,28 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```python
 class Dharshini:
     def __init__(self):
         self.name         = "Dharshini S"
         self.location     = "Tamil Nadu, India 🇮🇳"
-        self.degree       = "B.E. – Sri Eshwar College of Engineering (2023–2027)"
+        self.degree       = "B.E. – SECE (2023–2027)"
         self.email        = "dharshinisenthil1029@gmail.com"
-        self.stack        = ["React", "Node.js", "Express", "MongoDB",
-                             "Python", "FastAPI", "Django", "AWS"]
-        self.currently_learning = [
+        self.stack        = [
+            "React", "Node.js", "Express",
+            "MongoDB", "Python", "FastAPI",
+            "Django", "AWS"
+        ]
+        self.learning     = [
             "Advanced System Design",
             "NestJS & Microservices",
             "Machine Learning with Python"
         ]
-        self.fun_fact     = "I debug with console.log and I'm not ashamed 😅"
+        self.fun_fact     = "I debug with console.log 😅"
 
     def motto(self):
         return "Build fast. Break things. Learn faster. 🚀"
@@ -44,7 +49,14 @@ me = Dharshini()
 print(me.motto())
 ```
 
-<br clear="right"/>
+</td>
+<td valign="top" width="45%" align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
