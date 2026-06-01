@@ -169,7 +169,9 @@ to solve real-world problems.
 ---
 
 ### 🎬 Movie & TV Database
-[![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=vercel&logoColor=black)](https://github.com/DharshiniSenthil2629/Movie-Tv)
+[![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=vercel&logoColor=black)](https://movie-tv-project-29nx7dul9-dharshinis-projects-d1a90e46.vercel.app/login)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DharshiniSenthil2629/Smart-Plant-Care)
 &nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
