@@ -19,42 +19,37 @@
 
 ## 👩‍💻 About Me
 
-<table>
-<tr>
-<td valign="top" width="55%">
+<div align="center">
 
 <h3>👋 Hi, I'm Dharshini S</h3>
 
 <p>🎓 &nbsp; B.E. Computer Science @ Sri Eshwar College of Engineering (2023–2027)</p>
-<p>📍 &nbsp; Tamil Nadu, India</p>
-<p>📧 &nbsp; dharshinisenthil1029@gmail.com</p>
+<p>📍 &nbsp; Tamil Nadu, India &nbsp; | &nbsp; 📧 &nbsp; dharshinisenthil1029@gmail.com</p>
 
-<h4>🚀 Tech Stack</h4>
-<p>React · Node.js · Express · MongoDB · Python · FastAPI · Django · AWS</p>
+<br/>
 
-<h4>📚 Currently Learning</h4>
-<ul>
-  <li>Advanced System Design</li>
-  <li>NestJS &amp; Microservices</li>
-  <li>Machine Learning with Python</li>
-</ul>
+<p>
+  <strong>🚀 Tech Stack</strong><br/>
+  React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Python &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Django &nbsp;·&nbsp; AWS
+</p>
 
-<h4>😄 Fun Fact</h4>
-<p>I debug with <code>console.log</code> and I'm not ashamed 😅</p>
+<br/>
 
-<h4>💬 Motto</h4>
-<p><em>Build fast. Break things. Learn faster. 🚀</em></p>
+<p><strong>📚 Currently Learning</strong></p>
+<p>Advanced System Design &nbsp;·&nbsp; NestJS &amp; Microservices &nbsp;·&nbsp; Machine Learning with Python</p>
 
-</td>
-<td valign="top" width="45%" align="center">
-<img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-</td>
-</tr>
-</table>
+<br/>
+
+<p>😄 &nbsp; <em>I debug with <code>console.log</code> and I'm not ashamed!</em></p>
+<p>💬 &nbsp; <strong><em>"Build fast. Break things. Learn faster. 🚀"</em></strong></p>
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
+
+<div align="center">
 
 **Languages**
 
@@ -94,6 +89,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
@@ -152,43 +149,39 @@
 
 <div align="center">
 
-| Project | Stack | Highlights |
-|:--------|:------|:-----------|
-| 🌿 **[Smart Plant Care System](https://github.com/DharshiniSenthil2629/Smart-Plant-Care)** | React.js · Python · Groq API · JavaScript | AI-powered plant health monitoring with conversational chatbot; personalized care recommendations via Groq API integration |
-| 🎬 **[Movie & TV Database](https://github.com/DharshiniSenthil2629/Movie-Tv)** | React.js · Node.js · Express.js · MongoDB | Full-stack platform with CRUD, RESTful APIs, user auth, trailers, ratings & comments; fully deployed with responsive UI |
-| 📄 **[DocuScan – AI Document Summarizer](https://github.com/DharshiniSenthil2629/DocScan)** | React.js · Node.js · Express.js · MongoDB · Gemini API | Analyzes PDFs, extracts key points, auto-summarizes content & generates quiz questions powered by Gemini API |
+### 🌿 Smart Plant Care System
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DharshiniSenthil2629/Smart-Plant-Care)
+&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Groq](https://img.shields.io/badge/Groq_API-FF6B35?style=flat-square&logoColor=white)
 
-</div>
-
----
-
-## 🏅 Achievements
-
-<div align="center">
-
-| 🏆 | Achievement | Details |
-|:--:|:------------|:--------|
-| 🥇 | **DecodeX Hackathon Finalist** | Top 50 among **4,000+ participants** — Mumbai, 2026 |
-| 📰 | **Research Paper Publication** | Published in **TIJER** — Content Generation Websites, 2024 |
-| ⚔️ | **Adya MCP Hackathon** | Participated & competed, 2025 |
-| 💻 | **Hack Her Verse @ Unstop** | Participated in women-in-tech hackathon, 2025 |
-| 🔢 | **LeetCode** | Max Rating **1,544** · Global Rank **286,586** · **170+ problems** solved |
-| ✅ | **HackerRank** | **150+ problems** solved across domains |
-| 🎯 | **Skillrack** | **600+ problems** solved |
-
-</div>
+> AI-powered web app for plant health monitoring with a conversational chatbot. Users get personalized plant care recommendations powered by Groq API integration.
 
 ---
 
-## 🎓 Education
+### 🎬 Movie & TV Database
+[![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=vercel&logoColor=black)](https://github.com/DharshiniSenthil2629/Movie-Tv)
+&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-<div align="center">
+> Full-stack Movie/TV platform with CRUD operations, RESTful APIs, user authentication, trailers, ratings, and comments. Fully deployed with a clean responsive UI.
 
-| Degree | Institution | Year | Score |
-|:-------|:------------|:----:|:-----:|
-| B.E. Computer Science | Sri Eshwar College of Engineering | 2023 – 2027 | **8.06 CGPA** (V Sem) |
-| Higher Secondary (12th) | Adharsh Vidhalaya Matric Hr. Sec. School | 2021 – 2023 | **84.83%** |
-| Secondary (10th) | AVP Trust National Matric Hr. Sec. School | 2020 – 2021 | Pass |
+---
+
+### 📄 DocuScan — AI Document Summarizer & Quiz Generator
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DharshiniSenthil2629/DocScan)
+&nbsp;
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+
+> Analyzes uploaded PDFs, extracts key points, generates summaries and auto-creates quiz questions — all powered by Gemini API.
 
 </div>
 
@@ -196,13 +189,15 @@
 
 ## 🌱 Currently Learning
 
-<pre>
-📐 System Design       →  HLD, LLD, Microservices, Scalability Patterns
-🐦 NestJS              →  Decorators, Guards, Interceptors, TypeORM
-🤖 Machine Learning    →  Supervised Learning, Feature Engineering, Model Deployment
-☁️  AWS Deep Dive      →  EC2, Lambda, S3, RDS, CloudFront
-🧠 Generative AI       →  RAG Pipelines, Vector Databases, LangChain
-</pre>
+<div align="center">
+
+![System Design](https://img.shields.io/badge/System%20Design-HLD%20%7C%20LLD%20%7C%20Microservices-70a5fd?style=flat-square)
+![NestJS](https://img.shields.io/badge/NestJS-Decorators%20%7C%20Guards%20%7C%20TypeORM-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-Supervised%20%7C%20Feature%20Eng-FF6F00?style=flat-square&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20Lambda%20%7C%20S3%20%7C%20RDS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI-RAG%20%7C%20Vector%20DB%20%7C%20LangChain-bf91f3?style=flat-square)
+
+</div>
 
 ---
 
@@ -215,6 +210,26 @@
 ![ML](https://img.shields.io/badge/Intro_to_Machine_Learning-FF6F00?style=flat-square&logo=kaggle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python_Fundamentals-3776AB?style=flat-square&logo=python&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA_with_C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+</div>
+
+---
+
+## 💭 Thoughts
+
+<div align="center">
+
+*"Every bug is just a feature you haven't understood yet."*
+
+*"The best code is no code — but when you must write it, make it readable."*
+
+*"I don't just build apps. I build solutions that make someone's day a little easier."*
+
+*"Learning never exhausts the mind. It only ignites it. 🔥"*
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
 
@@ -233,9 +248,5 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
