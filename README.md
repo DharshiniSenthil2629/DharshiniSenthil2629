@@ -53,40 +53,6 @@ to solve real-world problems.
 
 ---
 
-## 🛠️ Tech Arsenal
-
-### Frontend
-`React.js` • `JavaScript` • `HTML5` • `CSS3` • `Tailwind CSS`
-
-### Backend
-`Node.js` • `Express.js` • `FastAPI` • `Django`
-
-### Databases
-`MongoDB` • `MySQL`
-
-### AI / ML
-`Python` • `Machine Learning` • `Deep Learning` • `Generative AI` • `LLMs`
-
-### Cloud & Tools
-`AWS` • `Git` • `GitHub` • `Postman` • `Docker`
-
----
-
-## 🚀 What I Build
-
-🔹 AI-Powered Study Platforms  
-🔹 Intelligent Document Analysis Systems  
-🔹 Recommendation Engines  
-🔹 Full-Stack Web Applications  
-🔹 Generative AI Assistants  
-🔹 Scalable REST APIs
-
----
-
-## 🌟 Motto
-
-> "Building intelligent solutions today for the challenges of tomorrow."
-
 
 <br/>
 
