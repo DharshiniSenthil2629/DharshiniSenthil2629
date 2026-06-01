@@ -17,21 +17,76 @@
 
 ---
 
-## 👩‍💻 About Me
+<h1 align="center">Hi 👋, I'm Dharshini S</h1>
 
-<div align="center">
+<h3 align="center">
+🚀 AI & Full-Stack Developer | B.E. Computer Science Engineer
+</h3>
 
-<h3>👋 Hi, I'm Dharshini S</h3>
-
-<p>🎓 &nbsp; B.E. Computer Science @ Sri Eshwar College of Engineering (2023–2027)</p>
-<p>📍 &nbsp; Tamil Nadu, India &nbsp; | &nbsp; 📧 &nbsp; dharshinisenthil1029@gmail.com</p>
-
-<br/>
-
-<p>
-  <strong>🚀 Tech Stack</strong><br/>
-  React &nbsp;·&nbsp; Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; MongoDB &nbsp;·&nbsp; Python &nbsp;·&nbsp; FastAPI &nbsp;·&nbsp; Django &nbsp;·&nbsp; AWS
+<p align="center">
+Passionate about building intelligent applications that combine
+Artificial Intelligence, Machine Learning, and Full-Stack Development
+to solve real-world problems.
 </p>
+
+<br>
+
+<p align="center">
+🎓 Sri Eshwar College of Engineering (2023–2027) <br>
+📍 Tamil Nadu, India <br>
+📧 dharshinisenthil1029@gmail.com
+</p>
+
+---
+
+## 💫 About Me
+
+✨ Computer Science Engineering student with a strong interest in AI, Machine Learning, and Product Development.
+
+💡 Experienced in developing intelligent web applications, AI-powered assistants, recommendation systems, document analysis tools, and scalable backend services.
+
+🚀 Passionate about transforming innovative ideas into impactful products through technology.
+
+🌱 Currently exploring Advanced AI Systems, Cloud Computing, and Scalable Software Architecture.
+
+🎯 Goal: To become an AI Engineer and Product Builder creating technology that impacts millions.
+
+---
+
+## 🛠️ Tech Arsenal
+
+### Frontend
+`React.js` • `JavaScript` • `HTML5` • `CSS3` • `Tailwind CSS`
+
+### Backend
+`Node.js` • `Express.js` • `FastAPI` • `Django`
+
+### Databases
+`MongoDB` • `MySQL`
+
+### AI / ML
+`Python` • `Machine Learning` • `Deep Learning` • `Generative AI` • `LLMs`
+
+### Cloud & Tools
+`AWS` • `Git` • `GitHub` • `Postman` • `Docker`
+
+---
+
+## 🚀 What I Build
+
+🔹 AI-Powered Study Platforms  
+🔹 Intelligent Document Analysis Systems  
+🔹 Recommendation Engines  
+🔹 Full-Stack Web Applications  
+🔹 Generative AI Assistants  
+🔹 Scalable REST APIs
+
+---
+
+## 🌟 Motto
+
+> "Building intelligent solutions today for the challenges of tomorrow."
+
 
 <br/>
 
@@ -215,7 +270,6 @@
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
 
