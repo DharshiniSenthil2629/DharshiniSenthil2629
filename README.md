@@ -22,29 +22,29 @@
 <table>
 <tr>
 <td valign="top" width="55%">
-<pre><code class="language-python">class Dharshini:
-    def __init__(self):
-        self.name         = "Dharshini S"
-        self.location     = "Tamil Nadu, India 🇮🇳"
-        self.degree       = "B.E. – SECE (2023–2027)"
-        self.email        = "dharshinisenthil1029@gmail.com"
-        self.stack        = [
-            "React", "Node.js", "Express",
-            "MongoDB", "Python", "FastAPI",
-            "Django", "AWS"
-        ]
-        self.learning     = [
-            "Advanced System Design",
-            "NestJS & Microservices",
-            "Machine Learning with Python"
-        ]
-        self.fun_fact     = "I debug with console.log 😅"
 
-    def motto(self):
-        return "Build fast. Break things. Learn faster. 🚀"
+<h3>👋 Hi, I'm Dharshini S</h3>
 
-me = Dharshini()
-print(me.motto())</code></pre>
+<p>🎓 &nbsp; B.E. Computer Science @ Sri Eshwar College of Engineering (2023–2027)</p>
+<p>📍 &nbsp; Tamil Nadu, India</p>
+<p>📧 &nbsp; dharshinisenthil1029@gmail.com</p>
+
+<h4>🚀 Tech Stack</h4>
+<p>React · Node.js · Express · MongoDB · Python · FastAPI · Django · AWS</p>
+
+<h4>📚 Currently Learning</h4>
+<ul>
+  <li>Advanced System Design</li>
+  <li>NestJS &amp; Microservices</li>
+  <li>Machine Learning with Python</li>
+</ul>
+
+<h4>😄 Fun Fact</h4>
+<p>I debug with <code>console.log</code> and I'm not ashamed 😅</p>
+
+<h4>💬 Motto</h4>
+<p><em>Build fast. Break things. Learn faster. 🚀</em></p>
+
 </td>
 <td valign="top" width="45%" align="center">
 <img width="100%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
