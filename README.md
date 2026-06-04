@@ -20,48 +20,51 @@
 
 ## 👩‍💻 About Me
 
+<div align="center">
+
+| 🎓 Education | 📍 Location | 🎯 Focus |
+|:---:|:---:|:---:|
+| B.E. Computer Science Engineering | Tamil Nadu, India | AI Systems · MERN Stack · Product Dev |
+| Sri Eshwar College of Engineering | | |
+| `2023 – 2027` | | |
+
+</div>
+
+<br/>
+
 <table>
 <tr>
-<td width="55%">
+<td width="50%">
 
-```yaml
-name        : Dharshini S
-role        : Full-Stack Developer & AI Builder
-education   : B.E. Computer Science Engineering
-              Sri Eshwar College of Engineering
-              2023 – 2027
-location    : Tamil Nadu, India
-focus       : AI Systems · MERN Stack · Product Dev
+### 🚀 Quick Facts
 
-currently   :
-  - Advanced System Design (HLD · LLD · Microservices)
-  - NestJS & Microservices Architecture
-  - Machine Learning with Python
-  - Generative AI (RAG · Vector DB · LangChain)
-  - AWS (EC2 · Lambda · S3 · RDS)
-
-goal        : AI Engineer & Product Builder
-              creating technology that impacts millions
-```
+- 🏆 &nbsp; **Finalist** @ DecodeX Hackathon 2026
+- 🧠 &nbsp; **170+ LeetCode Problems** · Rating **1544**
+- 🤖 &nbsp; Built AI apps with **Groq & Gemini APIs**
+- ☁️ &nbsp; **AWS Cloud Practitioner** certified
+- 🌐 &nbsp; Deployed full-stack apps on **Vercel & AWS**
+- 🔥 &nbsp; Debugging since `console.log("here")` was valid
 
 </td>
-<td width="45%" align="center">
+<td width="50%">
 
-🎯 &nbsp; **170+ LeetCode Problems** · Rating **1544**
+### 🌱 Currently Learning
 
-🏆 &nbsp; **Finalist** @ DecodeX Hackathon 2026
+![System Design](https://img.shields.io/badge/System%20Design-HLD%20·%20LLD%20·%20Microservices-70a5fd?style=flat-square)
 
-🤖 &nbsp; Built AI-powered apps with **Groq & Gemini APIs**
+![NestJS](https://img.shields.io/badge/NestJS-Decorators%20·%20Guards%20·%20TypeORM-E0234E?style=flat-square&logo=nestjs&logoColor=white)
 
-🌐 &nbsp; Full-stack deployments on **Vercel & AWS**
+![ML](https://img.shields.io/badge/Machine%20Learning-Supervised%20·%20Feature%20Eng-FF6F00?style=flat-square&logo=python&logoColor=white)
 
-☁️ &nbsp; **AWS Cloud Practitioner** certified
+![AWS](https://img.shields.io/badge/AWS-EC2%20·%20Lambda%20·%20S3%20·%20RDS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
-🔥 &nbsp; Debugging since `console.log("here")` was a strategy
+![GenAI](https://img.shields.io/badge/Generative%20AI-RAG%20·%20Vector%20DB%20·%20LangChain-bf91f3?style=flat-square)
 
 </td>
 </tr>
 </table>
+
+> 🎯 **Goal:** Become an AI Engineer & Product Builder — creating technology that impacts millions.
 
 ---
 
@@ -208,11 +211,13 @@ Full-stack study platform with AI-driven recommendations, intelligent chatbot as
 
 <div align="center">
 
-![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![ML](https://img.shields.io/badge/Intro_to_Machine_Learning-FF6F00?style=flat-square&logo=kaggle&logoColor=white)
-![Python](https://img.shields.io/badge/Python_Fundamentals-3776AB?style=flat-square&logo=python&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA_with_C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+| Certification | Issuer |
+|:---|:---|
+| ☁️ AWS Cloud Practitioner | Amazon Web Services |
+| 🗄️ SQL | MySQL |
+| 🤖 Intro to Machine Learning | Kaggle |
+| 🐍 Python Fundamentals | — |
+| 📐 DSA with C++ | — |
 
 </div>
 
