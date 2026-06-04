@@ -20,15 +20,6 @@
 
 ## 👩‍💻 About Me
 
-<div align="center">
-
-| 🎓 Education | 📍 Location | 🎯 Focus |
-|:---:|:---:|:---:|
-| B.E. Computer Science Engineering | Tamil Nadu, India | AI Systems · MERN Stack · Product Dev |
-| Sri Eshwar College of Engineering | | |
-| `2023 – 2027` | | |
-
-</div>
 
 <br/>
 
