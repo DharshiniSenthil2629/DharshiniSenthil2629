@@ -229,19 +229,39 @@ Full-stack study platform with AI-driven recommendations, an intelligent chatbot
 
 <div align="center">
 
-```
-2025 ──────────────────────────────────────────────────── 2027
+# 🚀 AI Engineer Roadmap
 
-  [✓] MERN Stack Mastery          [→] LangChain & RAG Systems
-  [✓] AI API Integration          [→] Fine-tuning Open Source LLMs
-  [✓] AWS Cloud Practitioner      [→] MLOps & Model Deployment
-  [✓] Hackathon Finalist          [→] AI Research Contribution
-  [→] System Design (HLD/LLD)    [→] Full AI Product Launch
-  [→] NestJS & Microservices     [→] Top-tier AI Internship
-```
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ✅ Achieved
+
+- MERN Stack Mastery
+- AI API Integration
+- AWS Cloud Practitioner
+- Hackathon Finalist
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 Next Goals
+
+- LangChain & RAG Systems
+- Fine-tuning Open Source LLMs
+- MLOps & Model Deployment
+- AI Research Contribution
+- System Design (HLD / LLD)
+- NestJS & Microservices
+- Full AI Product Launch
+- Top-tier AI Internship
+
+</td>
+</tr>
+</table>
 
 </div>
-
 ---
 
 ## 🤝 Let's Connect
