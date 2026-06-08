@@ -1,291 +1,370 @@
-<a href="https://github.com/DharshiniSenthil2629">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B2447,19376D,0C6291&height=220&section=header&text=Dharshini%20S&fontSize=58&fontColor=A5D7E8&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Builder&descAlignY=62&descSize=17&descColor=576CBC" />
-</a>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=0C6291&center=true&vCenter=true&width=800&lines=AI+%2F+ML+Engineer+in+the+Making+%C2%B7+Class+of+2027;Finalist+%40+DecodeX+Hackathon+2026+%F0%9F%8F%86;170%2B+LeetCode+Problems+%C2%B7+Rating+1544;Building+AI+Apps+with+Groq+%C2%B7+Gemini+%C2%B7+LangChain;Seeking+AI+Engineering+Internships+%F0%9F%9A%80)](https://github.com/DharshiniSenthil2629)
+<!-- ████████████████████████████████████████████████████████████████ -->
+<!--                        HERO SYSTEM BANNER                       -->
+<!-- ████████████████████████████████████████████████████████████████ -->
 
-<br/>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=DharshiniSenthil2629&style=flat-square&color=0C6291&label=Profile+Views)](https://github.com/DharshiniSenthil2629)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0B2447?style=flat-square&logo=linkedin&logoColor=A5D7E8)](https://www.linkedin.com/in/dharshini-senthil-930169292/)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rating_1544-19376D?style=flat-square&logo=leetcode&logoColor=A5D7E8)](https://leetcode.com/u/dharshini2629/)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-Contact_Me-0C6291?style=flat-square&logo=gmail&logoColor=A5D7E8)](mailto:dharshinisenthil1029@gmail.com)
-&nbsp;
-[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-0B2447?style=flat-square&logo=hackerrank&logoColor=A5D7E8)](https://www.hackerrank.com/profile/dharshini_s20231)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=050816,0F172A,1e1b4b,312e81&height=280&section=header&text=DHARSHINI%20S&fontSize=72&fontColor=22D3EE&animation=fadeIn&fontAlignY=42&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Builder&descAlignY=64&descSize=16&descColor=8B5CF6" />
 
 </div>
 
 <br/>
 
----
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                      STATUS TERMINAL                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
-## 🧠 About Me
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  SYSTEM    ▸  dharshini.os  v2.0.27                                  ║
+║  STATUS    ▸  ● ONLINE  │  Seeking AI Engineering Internships 2025   ║
+║  CLASS     ▸  AI / ML Engineer — Class of 2027                       ║
+║  RANK      ▸  LeetCode #1544  │  Hackathon Finalist — DecodeX 2026   ║
+║  STACK     ▸  Groq · Gemini · LangChain · MERN · AWS · FastAPI       ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=780&lines=%24+boot+AI_ENGINEER.exe+--mode%3Dproduction;Finalist+%40+DecodeX+Hackathon+2026+%F0%9F%8F%86;170%2B+LeetCode+Problems+%C2%B7+Rating+1544;Building+AI+Apps+with+Groq+%C2%B7+Gemini+%C2%B7+LangChain;%24+deploying+next-gen+AI+systems...)](https://github.com/DharshiniSenthil2629)
+
+<br/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=DharshiniSenthil2629&style=for-the-badge&color=22D3EE&label=PROFILE+VIEWS&labelColor=0F172A)](https://github.com/DharshiniSenthil2629)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A)](https://www.linkedin.com/in/dharshini-senthil-930169292/)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LEETCODE-1544-22D3EE?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0F172A)](https://leetcode.com/u/dharshini2629/)
+&nbsp;
+[![Email](https://img.shields.io/badge/EMAIL-Hire_Me-EC4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:dharshinisenthil1029@gmail.com)
+
+</div>
+
+<br/>
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     ACHIEVEMENT GRID                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## `[ SYSTEM ACHIEVEMENTS ]`
+
+</div>
+
+<br/>
 
 <table>
 <tr>
-<td width="52%" valign="top">
+<td align="center" width="25%">
 
-### 🏅 Achievements & Identity
-
-- 🏆 &nbsp;**Finalist** — DecodeX Hackathon 2026
-- 🧩 &nbsp;**170+ LeetCode Problems** · Rating **1544**
-- ☁️ &nbsp;**AWS Certified** Cloud Practitioner
-- 🤖 &nbsp;Built production AI apps with **Groq & Gemini APIs**
-- 🌐 &nbsp;Deployed full-stack apps on **Vercel, Render & AWS**
-- 🎯 &nbsp;Goal: AI Engineer & Product Builder by 2027
+### `🏆`
+**HACKATHON**<br/>**FINALIST**
+<sub>DecodeX 2026</sub>
 
 </td>
-<td width="48%" valign="top">
+<td align="center" width="25%">
 
-### 📡 Currently Learning
+### `⚡`
+**170+ SOLVED**<br/>**RATING 1544**
+<sub>LeetCode</sub>
 
-![GenAI](https://img.shields.io/badge/Generative_AI-RAG_·_Vector_DB_·_LangChain-0B2447?style=flat-square&logoColor=A5D7E8)
+</td>
+<td align="center" width="25%">
 
-![System Design](https://img.shields.io/badge/System_Design-HLD_·_LLD_·_Microservices-19376D?style=flat-square&logoColor=A5D7E8)
+### `☁️`
+**AWS CERTIFIED**<br/>**PRACTITIONER**
+<sub>Amazon Web Services</sub>
 
-![NestJS](https://img.shields.io/badge/NestJS-Decorators_·_Guards_·_TypeORM-0C6291?style=flat-square&logo=nestjs&logoColor=A5D7E8)
+</td>
+<td align="center" width="25%">
 
-![ML](https://img.shields.io/badge/Machine_Learning-Supervised_·_Feature_Eng-0B2447?style=flat-square&logo=python&logoColor=A5D7E8)
-
-![AWS](https://img.shields.io/badge/AWS-EC2_·_Lambda_·_S3_·_RDS-19376D?style=flat-square&logo=amazonaws&logoColor=A5D7E8)
+### `🚀`
+**AI APPS IN**<br/>**PRODUCTION**
+<sub>Groq · Gemini · LangChain</sub>
 
 </td>
 </tr>
 </table>
 
-<div align="center">
+<br/>
+<br/>
 
-> *"I don't just build apps — I build systems that think, learn, and scale."*
-
-</div>
-
----
-
-## 🤖 AI / ML Focus
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     AI EXPERTISE MAP                           -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-*The intersection where I operate — and where I'm going*
+## `[ AI EXPERTISE MAP ]`
 
-| Layer | Tools & Concepts |
-|:---|:---|
-| 🧠 **LLM Integration** | Groq API · Gemini API · OpenAI · Prompt Engineering |
-| 🔗 **AI Frameworks** | LangChain · RAG Pipelines · Vector Databases |
-| 🐍 **ML Foundations** | Supervised Learning · Feature Engineering · Kaggle |
-| ☁️ **AI Infrastructure** | AWS Lambda · Serverless · API Gateway |
-| 🎙️ **Multimodal AI** | Voice AI · Conversational Agents · Document AI |
+*The layers where I operate*
 
 </div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+```
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  LAYER 01 ── LLM INTEGRATION                                    │
+  │             Groq API · Gemini API · OpenAI · Prompt Engineering  │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  LAYER 02 ── AI FRAMEWORKS                                      │
+  │             LangChain · RAG Pipelines · Vector Databases         │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  LAYER 03 ── ML FOUNDATIONS                                     │
+  │             Supervised Learning · Feature Engineering · Kaggle   │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  LAYER 04 ── AI INFRASTRUCTURE                                  │
+  │             AWS Lambda · Serverless · API Gateway                │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  LAYER 05 ── MULTIMODAL AI                                      │
+  │             Voice AI · Conversational Agents · Document AI       │
+  └─────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                       TECH STACK                               -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-**— Languages —**
-
-![C++](https://img.shields.io/badge/C++-0B2447?style=flat-square&logo=cplusplus&logoColor=A5D7E8)
-![Python](https://img.shields.io/badge/Python-19376D?style=flat-square&logo=python&logoColor=A5D7E8)
-![Java](https://img.shields.io/badge/Java-0C6291?style=flat-square&logo=openjdk&logoColor=A5D7E8)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B2447?style=flat-square&logo=javascript&logoColor=A5D7E8)
-![HTML5](https://img.shields.io/badge/HTML5-19376D?style=flat-square&logo=html5&logoColor=A5D7E8)
-![CSS3](https://img.shields.io/badge/CSS3-0C6291?style=flat-square&logo=css3&logoColor=A5D7E8)
-
-**— AI & ML —**
-
-![Groq](https://img.shields.io/badge/Groq_API-0B2447?style=flat-square&logoColor=A5D7E8)
-![Gemini](https://img.shields.io/badge/Gemini_API-19376D?style=flat-square&logo=google&logoColor=A5D7E8)
-![LangChain](https://img.shields.io/badge/LangChain-0C6291?style=flat-square&logoColor=A5D7E8)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-0B2447?style=flat-square&logo=scikitlearn&logoColor=A5D7E8)
-![Pandas](https://img.shields.io/badge/Pandas-19376D?style=flat-square&logo=pandas&logoColor=A5D7E8)
-![FastAPI](https://img.shields.io/badge/FastAPI-0C6291?style=flat-square&logo=fastapi&logoColor=A5D7E8)
-
-**— Frontend & Backend —**
-
-![React](https://img.shields.io/badge/React-0B2447?style=flat-square&logo=react&logoColor=A5D7E8)
-![React Native](https://img.shields.io/badge/React_Native-19376D?style=flat-square&logo=react&logoColor=A5D7E8)
-![Node.js](https://img.shields.io/badge/Node.js-0C6291?style=flat-square&logo=nodedotjs&logoColor=A5D7E8)
-![Express.js](https://img.shields.io/badge/Express.js-0B2447?style=flat-square&logo=express&logoColor=A5D7E8)
-![NestJS](https://img.shields.io/badge/NestJS-19376D?style=flat-square&logo=nestjs&logoColor=A5D7E8)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0C6291?style=flat-square&logo=tailwind-css&logoColor=A5D7E8)
-![Django](https://img.shields.io/badge/Django-0B2447?style=flat-square&logo=django&logoColor=A5D7E8)
-
-**— Databases · Cloud · DevOps —**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-0B2447?style=flat-square&logo=mongodb&logoColor=A5D7E8)
-![MySQL](https://img.shields.io/badge/MySQL-19376D?style=flat-square&logo=mysql&logoColor=A5D7E8)
-![AWS](https://img.shields.io/badge/AWS-0C6291?style=flat-square&logo=amazonaws&logoColor=A5D7E8)
-![Vercel](https://img.shields.io/badge/Vercel-0B2447?style=flat-square&logo=vercel&logoColor=A5D7E8)
-![Render](https://img.shields.io/badge/Render-19376D?style=flat-square&logo=render&logoColor=A5D7E8)
-![Git](https://img.shields.io/badge/Git-0C6291?style=flat-square&logo=git&logoColor=A5D7E8)
-![GitHub](https://img.shields.io/badge/GitHub-0B2447?style=flat-square&logo=github&logoColor=A5D7E8)
-![Postman](https://img.shields.io/badge/Postman-19376D?style=flat-square&logo=postman&logoColor=A5D7E8)
+## `[ TECH STACK ]`
 
 </div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+<div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**── CORE LANGUAGES ──**
 
-### 🌿 Smart Plant Care System
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-0B2447?style=flat-square&logo=github&logoColor=A5D7E8)](https://github.com/DharshiniSenthil2629/Smart-Plant-Care)
+![C++](https://img.shields.io/badge/C++-00ADD8?style=flat-square&logo=cplusplus&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-22D3EE?style=flat-square&logo=openjdk&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-EC4899?style=flat-square&logo=javascript&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-3B82F6?style=flat-square&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-8B5CF6?style=flat-square&logo=css3&logoColor=white)
+
+<br/>
+
+**── AI · ML · DATA ──**
+
+![Groq](https://img.shields.io/badge/Groq_API-22D3EE?style=flat-square&logoColor=white)&nbsp;
+![Gemini](https://img.shields.io/badge/Gemini_API-8B5CF6?style=flat-square&logo=google&logoColor=white)&nbsp;
+![LangChain](https://img.shields.io/badge/LangChain-EC4899?style=flat-square&logoColor=white)&nbsp;
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-3B82F6?style=flat-square&logo=scikitlearn&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-22D3EE?style=flat-square&logo=pandas&logoColor=white)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-8B5CF6?style=flat-square&logo=fastapi&logoColor=white)
+
+<br/>
+
+**── FRONTEND · BACKEND ──**
+
+![React](https://img.shields.io/badge/React-22D3EE?style=flat-square&logo=react&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-8B5CF6?style=flat-square&logo=react&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-EC4899?style=flat-square&logo=nodedotjs&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-3B82F6?style=flat-square&logo=express&logoColor=white)&nbsp;
+![NestJS](https://img.shields.io/badge/NestJS-22D3EE?style=flat-square&logo=nestjs&logoColor=white)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/Tailwind-8B5CF6?style=flat-square&logo=tailwind-css&logoColor=white)&nbsp;
+![Django](https://img.shields.io/badge/Django-EC4899?style=flat-square&logo=django&logoColor=white)
+
+<br/>
+
+**── DATABASE · CLOUD · DEVOPS ──**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-22D3EE?style=flat-square&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-8B5CF6?style=flat-square&logo=mysql&logoColor=white)&nbsp;
+![AWS](https://img.shields.io/badge/AWS-EC4899?style=flat-square&logo=amazonaws&logoColor=white)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-3B82F6?style=flat-square&logo=vercel&logoColor=white)&nbsp;
+![Render](https://img.shields.io/badge/Render-22D3EE?style=flat-square&logo=render&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/Git-8B5CF6?style=flat-square&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-EC4899?style=flat-square&logo=github&logoColor=white)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-3B82F6?style=flat-square&logo=postman&logoColor=white)
+
+</div>
+
+<br/>
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    PROJECT SHOWCASE                            -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## `[ PROJECT SHOWCASE ]`
+
+</div>
+
+<br/>
+
+<!-- ── Project 01 ── -->
+
+> **`01` &nbsp; 🌿 SMART PLANT CARE SYSTEM** &nbsp; [![GitHub](https://img.shields.io/badge/SOURCE-0F172A?style=flat-square&logo=github&logoColor=22D3EE)](https://github.com/DharshiniSenthil2629/Smart-Plant-Care)
 
 AI-powered plant health monitoring platform with a real-time conversational chatbot. Users receive personalized care recommendations driven by Groq API analysis.
 
-![React](https://img.shields.io/badge/React-0B2447?style=flat-square&logo=react&logoColor=A5D7E8)
-![Python](https://img.shields.io/badge/Python-19376D?style=flat-square&logo=python&logoColor=A5D7E8)
-![Groq](https://img.shields.io/badge/Groq_API-0C6291?style=flat-square&logoColor=A5D7E8)
+`React` &nbsp; `Python` &nbsp; `Groq API` &nbsp; `AI Chatbot` &nbsp; `Real-Time Analysis`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 📄 DocuScan — AI Document Analyzer
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-0B2447?style=flat-square&logo=github&logoColor=A5D7E8)](https://github.com/DharshiniSenthil2629/DocScan)
+<!-- ── Project 02 ── -->
+
+> **`02` &nbsp; 📄 DOCUSCAN — AI DOCUMENT ANALYZER** &nbsp; [![GitHub](https://img.shields.io/badge/SOURCE-0F172A?style=flat-square&logo=github&logoColor=22D3EE)](https://github.com/DharshiniSenthil2629/DocScan)
 
 Analyzes uploaded PDFs, extracts key insights, generates structured summaries, and auto-creates quiz questions — all powered by Gemini API.
 
-![React](https://img.shields.io/badge/React-0B2447?style=flat-square&logo=react&logoColor=A5D7E8)
-![Node.js](https://img.shields.io/badge/Node.js-19376D?style=flat-square&logo=nodedotjs&logoColor=A5D7E8)
-![Gemini](https://img.shields.io/badge/Gemini_API-0C6291?style=flat-square&logo=google&logoColor=A5D7E8)
+`React` &nbsp; `Node.js` &nbsp; `Gemini API` &nbsp; `Document AI` &nbsp; `PDF Processing`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🎬 Movie & TV Database Platform
-[![Live](https://img.shields.io/badge/Live-Demo-0B2447?style=flat-square&logo=vercel&logoColor=A5D7E8)](https://movie-tv-project-29nx7dul9-dharshinis-projects-d1a90e46.vercel.app/login)
-[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-19376D?style=flat-square&logo=github&logoColor=A5D7E8)](https://github.com/DharshiniSenthil2629/Smart-Plant-Care)
+<!-- ── Project 03 ── -->
+
+> **`03` &nbsp; 🎬 MOVIE & TV DATABASE PLATFORM** &nbsp; [![Live](https://img.shields.io/badge/LIVE-22D3EE?style=flat-square&logo=vercel&logoColor=white)](https://movie-tv-project-29nx7dul9-dharshinis-projects-d1a90e46.vercel.app/login) &nbsp; [![GitHub](https://img.shields.io/badge/SOURCE-0F172A?style=flat-square&logo=github&logoColor=8B5CF6)](https://github.com/DharshiniSenthil2629/Smart-Plant-Care)
 
 Full-stack Movie & TV platform with CRUD operations, RESTful APIs, JWT authentication, trailers, ratings, and comments. Fully deployed with responsive UI.
 
-![React](https://img.shields.io/badge/React-0B2447?style=flat-square&logo=react&logoColor=A5D7E8)
-![Node.js](https://img.shields.io/badge/Node.js-19376D?style=flat-square&logo=nodedotjs&logoColor=A5D7E8)
-![MongoDB](https://img.shields.io/badge/MongoDB-0C6291?style=flat-square&logo=mongodb&logoColor=A5D7E8)
+`React` &nbsp; `Node.js` &nbsp; `MongoDB` &nbsp; `JWT Auth` &nbsp; `REST APIs`
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🤖 AI-Powered Study Platform
+<!-- ── Project 04 ── -->
+
+> **`04` &nbsp; 🤖 AI-POWERED STUDY PLATFORM**
+
 Full-stack study platform with AI-driven recommendations, an intelligent chatbot assistant, JWT auth, automated reminder system, and calendar sync for smart session tracking.
 
-![React](https://img.shields.io/badge/React-0B2447?style=flat-square&logo=react&logoColor=A5D7E8)
-![Groq](https://img.shields.io/badge/Groq_API-19376D?style=flat-square&logoColor=A5D7E8)
-![MongoDB](https://img.shields.io/badge/MongoDB-0C6291?style=flat-square&logo=mongodb&logoColor=A5D7E8)
+`React` &nbsp; `Groq API` &nbsp; `MongoDB` &nbsp; `Calendar Sync` &nbsp; `AI Recommendations`
 
-</td>
-</tr>
-</table>
+<br/>
+<br/>
 
----
-
-## 📊 GitHub Stats
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                     GROWTH TIMELINE                            -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=DharshiniSenthil2629&show_icons=true&theme=dark&bg_color=0B2447&title_color=A5D7E8&text_color=576CBC&icon_color=0C6291&border_color=19376D&border_radius=10&hide_border=false" />
+## `[ GROWTH TIMELINE ]`
+
+</div>
+
+<br/>
+
+```
+  2023 ──────────────────────────────────────────────────────── 2027
+   │                                                              │
+   ●  Python Fundamentals                                         │
+   │  Data Structures & Algorithms (C++)                          │
+   │                                                              │
+   ●  MERN Stack Mastery                                          │
+   │  AI API Integration (Groq · Gemini)                          │
+   │  AWS Cloud Practitioner ☁️                                   │
+   │  Hackathon Finalist — DecodeX 2026 🏆               [TARGET] │
+   │  170+ LeetCode · Rating 1544 ⚡                              │
+   │  System Design (HLD · LLD · Microservices)           ──────● LangChain & RAG Systems
+   ●  NestJS · TypeORM · Guards · Decorators                      │ Fine-tuning Open Source LLMs
+      Machine Learning · Feature Engineering              ──────● MLOps & Model Deployment
+      [CURRENT POSITION]                                          │ AI Research Contribution
+                                                          ──────● Full AI Product Launch
+                                                                  │ Top-tier AI Internship
+```
+
+<br/>
+<br/>
+
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    ANALYTICS CENTER                            -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## `[ ANALYTICS CENTER ]`
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DharshiniSenthil2629&show_icons=true&theme=tokyonight&bg_color=050816&title_color=22D3EE&text_color=94A3B8&icon_color=8B5CF6&border_color=1e1b4b&border_radius=12" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharshiniSenthil2629&layout=compact&theme=dark&bg_color=0B2447&title_color=A5D7E8&text_color=576CBC&border_color=19376D&border_radius=10&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharshiniSenthil2629&layout=compact&theme=tokyonight&bg_color=050816&title_color=22D3EE&text_color=94A3B8&border_color=1e1b4b&border_radius=12" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=DharshiniSenthil2629&theme=dark&background=0B2447&ring=0C6291&fire=A5D7E8&currStreakLabel=A5D7E8&sideLabels=576CBC&dates=576CBC&currStreakNum=A5D7E8&sideNums=A5D7E8&stroke=19376D&border_radius=10&border=19376D" />
+<img src="https://streak-stats.demolab.com?user=DharshiniSenthil2629&theme=tokyonight&background=050816&ring=22D3EE&fire=EC4899&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&stroke=1e1b4b&border_radius=12&border=1e1b4b" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DharshiniSenthil2629&bg_color=0B2447&color=A5D7E8&line=0C6291&point=576CBC&area=true&area_color=19376D&hide_border=false&border_color=19376D&radius=10" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DharshiniSenthil2629&bg_color=050816&color=22D3EE&line=8B5CF6&point=EC4899&area=true&area_color=1e1b4b&hide_border=false&border_color=1e1b4b&radius=12" />
 
 </div>
 
----
+<br/>
+<br/>
 
-## 📜 Certifications
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    CERTIFICATIONS                              -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-| &nbsp; | Certification | Issuer | Year |
-|:---:|:---|:---|:---:|
-| ☁️ | AWS Cloud Practitioner | Amazon Web Services | 2024 |
-| 🗄️ | SQL — Structured Query Language | MySQL | 2024 |
-| 🤖 | Introduction to Machine Learning | Kaggle | 2024 |
-| 🐍 | Python Fundamentals | — | 2023 |
-| 📐 | Data Structures & Algorithms with C++ | — | 2023 |
+## `[ CERTIFICATIONS ]`
 
 </div>
 
----
+<br/>
 
-## 🗺️ 2025 → 2027 Roadmap
+```
+  ┌──────────────────────────────────────────────────────────────────┐
+  │  ☁️  AWS Cloud Practitioner ─────────────── Amazon Web Services · 2024  │
+  │  🗄️  SQL — Structured Query Language ───────────────── MySQL · 2024  │
+  │  🤖  Introduction to Machine Learning ───────────────── Kaggle · 2024  │
+  │  🐍  Python Fundamentals ────────────────────────────────────── 2023  │
+  │  📐  Data Structures & Algorithms with C++ ─────────────────── 2023  │
+  └──────────────────────────────────────────────────────────────────┘
+```
 
-<div align="center">
+<br/>
+<br/>
 
-# 🚀 AI Engineer Roadmap
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ✅ Achieved
-
-- MERN Stack Mastery
-- AI API Integration
-- AWS Cloud Practitioner
-- Hackathon Finalist
-
-</td>
-
-<td width="50%" valign="top">
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--                    MISSION CONTROL                             -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# 🎯 2025 → 2027 Growth Journey
-
-| 2025 (Completed) ✅ | 2027 (Target) 🚀 |
-|---------------------|------------------|
-| MERN Stack Mastery | LangChain & RAG Systems |
-| AI API Integration | Fine-tuning Open Source LLMs |
-| AWS Cloud Practitioner | MLOps & Model Deployment |
-| Hackathon Finalist | AI Research Contribution |
-| Learning System Design | Full AI Product Launch |
-| Learning NestJS | Top-tier AI Internship |
-
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
+## `[ MISSION CONTROL ]`
 
 *Open to internships · research collaborations · AI/ML & Full-Stack roles*
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dharshini_Senthil-0B2447?style=for-the-badge&logo=linkedin&logoColor=A5D7E8)](https://www.linkedin.com/in/dharshini-senthil-930169292/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Dharshini_Senthil-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A)](https://www.linkedin.com/in/dharshini-senthil-930169292/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-DharshiniSenthil2629-19376D?style=for-the-badge&logo=github&logoColor=A5D7E8)](https://github.com/DharshiniSenthil2629)
+[![GitHub](https://img.shields.io/badge/GITHUB-DharshiniSenthil2629-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/DharshiniSenthil2629)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LeetCode-dharshini2629-0C6291?style=for-the-badge&logo=leetcode&logoColor=A5D7E8)](https://leetcode.com/u/dharshini2629/)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-dharshini2629-EC4899?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0F172A)](https://leetcode.com/u/dharshini2629/)
 
 <br/>
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-dharshini__s20231-0B2447?style=for-the-badge&logo=hackerrank&logoColor=A5D7E8)](https://www.hackerrank.com/profile/dharshini_s20231)
+[![HackerRank](https://img.shields.io/badge/HACKERRANK-dharshini__s20231-3B82F6?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=0F172A)](https://www.hackerrank.com/profile/dharshini_s20231)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-dharshinisenthil1029%40gmail.com-19376D?style=for-the-badge&logo=gmail&logoColor=A5D7E8)](mailto:dharshinisenthil1029@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-dharshinisenthil1029%40gmail.com-22D3EE?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A)](mailto:dharshinisenthil1029@gmail.com)
 
 <br/><br/>
 
-> *"The best AI systems are built by people who never stop learning."*
+```
+ ╔═══════════════════════════════════════════════════════╗
+ ║  "I don't just build apps —                           ║
+ ║   I build systems that think, learn, and scale."      ║
+ ╚═══════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=050816,0F172A,1e1b4b,312e81&height=140&section=footer&animation=fadeIn&fontColor=22D3EE" />
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B2447,19376D,0C6291&height=130&section=footer&animation=fadeIn&fontColor=A5D7E8" />
-
