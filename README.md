@@ -246,23 +246,20 @@ Full-stack study platform with AI-driven recommendations, an intelligent chatbot
 
 <td width="50%" valign="top">
 
-### 🎯 Next Goals
+<div align="center">
 
-- LangChain & RAG Systems
-- Fine-tuning Open Source LLMs
-- MLOps & Model Deployment
-- AI Research Contribution
-- System Design (HLD / LLD)
-- NestJS & Microservices
-- Full AI Product Launch
-- Top-tier AI Internship
+# 🎯 2025 → 2027 Growth Journey
 
-</td>
-</tr>
-</table>
+| 2025 (Completed) ✅ | 2027 (Target) 🚀 |
+|---------------------|------------------|
+| MERN Stack Mastery | LangChain & RAG Systems |
+| AI API Integration | Fine-tuning Open Source LLMs |
+| AWS Cloud Practitioner | MLOps & Model Deployment |
+| Hackathon Finalist | AI Research Contribution |
+| Learning System Design | Full AI Product Launch |
+| Learning NestJS | Top-tier AI Internship |
 
 </div>
----
 
 ## 🤝 Let's Connect
 
